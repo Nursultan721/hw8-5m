@@ -1,0 +1,182 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "img": "https://fort.crimea.com/catering/uploads/fotos/a2665522-9e30-11e9-9c72-54a05051519a_1.jpg",
+      "title": "Яичница-глазунья из трех яиц",
+      "price": "250",
+      "type": "lanch"
+    },
+    {
+      "id": "2",
+      "img": "https://gipfel.ru/upload/iblock/0ac/h0nnjx1qry80deb4uw78x9bln1a265tv.jpg",
+      "title": "Каша",
+      "price": "250",
+      "type": "lanch"
+    },
+    {
+      "id": "3",
+      "img": "https://вкуснофф.рф/img/recepty/2034/big.webp",
+      "title": "Лагман",
+      "price": "350",
+      "type": "firstDishes"
+    },
+    {
+      "id": "4",
+      "img": "https://img.povar.ru/mobile/a5/11/49/9f/shorpo-409463.jpg",
+      "title": "Шорпо",
+      "price": "150",
+      "type": "firstDishes"
+    },
+    {
+      "id": "5",
+      "img": "https://вкуснофф.рф/img/recepty/5151/big.webp",
+      "title": "Биштекс",
+      "price": "260",
+      "type": "secondDishes"
+    },
+    {
+      "id": "6",
+      "img": "https://i.obozrevatel.com/food/recipemain/2019/1/9/125.jpg?size=636x424",
+      "title": "Манты",
+      "price": "250",
+      "type": "secondDishes"
+    },
+    {
+      "id": "7",
+      "img": "https://www.chefmarket.ru/blog/wp-content/uploads/2020/10/layered-cake--2000x1200.jpg",
+      "title": "Напалеон",
+      "price": "150",
+      "type": "desert"
+    },
+    {
+      "id": "8",
+      "img": "https://images.gastronom.ru/FTy07UEST0ZBXS1vwWFbUs9EzpBL_UVS--fIZOpYnU0/pr:content-group-preview-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzL2ZkODQzNWVkLTI1MmUtNDNlOS05NzcwLTM4ZWZhYmM3OTk5Yy5qcGc.webp",
+      "title": "Клубничный торт",
+      "price": "130",
+      "type": "desert"
+    },
+    {
+      "id": "9",
+      "img": "https://therapy.school/upload/weimg_cache/9a8/9a8e6b2ce2fb87507c57f66728aef9bb/19.11.jpg",
+      "title": "Чай",
+      "price": "20",
+      "type": "drinks"
+    },
+    {
+      "id": "10",
+      "img": "https://rg.ru/uploads/images/208/91/57/iStock-916633288.jpg",
+      "title": "Сок",
+      "price": "100",
+      "type": "drinks"
+    }
+  ],
+  "basket": [
+    {
+      "id": "7536",
+      "name": "Каша",
+      "img": "https://gipfel.ru/upload/iblock/0ac/h0nnjx1qry80deb4uw78x9bln1a265tv.jpg",
+      "price": "250",
+      "count": "3"
+    },
+    {
+      "id": "45de",
+      "name": "Яичница-глазунья из трех яиц",
+      "img": "https://fort.crimea.com/catering/uploads/fotos/a2665522-9e30-11e9-9c72-54a05051519a_1.jpg",
+      "price": "250",
+      "count": "5"
+    },
+    {
+      "id": "f065",
+      "name": "Манты",
+      "img": "https://i.obozrevatel.com/food/recipemain/2019/1/9/125.jpg?size=636x424",
+      "price": "250",
+      "count": "1"
+    },
+    {
+      "id": "cb98",
+      "name": "Напалеон",
+      "img": "https://www.chefmarket.ru/blog/wp-content/uploads/2020/10/layered-cake--2000x1200.jpg",
+      "price": "150",
+      "count": "1"
+    },
+    {
+      "id": "8b03",
+      "name": "Лагман",
+      "img": "https://вкуснофф.рф/img/recepty/2034/big.webp",
+      "price": "350",
+      "count": "1"
+    },
+    {
+      "id": "2f75",
+      "name": "Лагман",
+      "img": "https://вкуснофф.рф/img/recepty/2034/big.webp",
+      "price": "350",
+      "count": "1"
+    },
+    {
+      "id": "be74",
+      "name": "Биштекс",
+      "img": "https://вкуснофф.рф/img/recepty/5151/big.webp",
+      "price": "260",
+      "count": "1"
+    }
+  ],
+  "order": [
+    {
+      "id": "c8ef",
+      "name": "user",
+      "order": [
+        {
+          "id": "7536",
+          "name": "Каша",
+          "img": "https://gipfel.ru/upload/iblock/0ac/h0nnjx1qry80deb4uw78x9bln1a265tv.jpg",
+          "price": "250",
+          "count": "3"
+        },
+        {
+          "id": "45de",
+          "name": "Яичница-глазунья из трех яиц",
+          "img": "https://fort.crimea.com/catering/uploads/fotos/a2665522-9e30-11e9-9c72-54a05051519a_1.jpg",
+          "price": "250",
+          "count": "5"
+        },
+        {
+          "id": "f065",
+          "name": "Манты",
+          "img": "https://i.obozrevatel.com/food/recipemain/2019/1/9/125.jpg?size=636x424",
+          "price": "250",
+          "count": "1"
+        },
+        {
+          "id": "cb98",
+          "name": "Напалеон",
+          "img": "https://www.chefmarket.ru/blog/wp-content/uploads/2020/10/layered-cake--2000x1200.jpg",
+          "price": "150",
+          "count": "1"
+        },
+        {
+          "id": "8b03",
+          "name": "Лагман",
+          "img": "https://вкуснофф.рф/img/recepty/2034/big.webp",
+          "price": "350",
+          "count": "1"
+        },
+        {
+          "id": "2f75",
+          "name": "Лагман",
+          "img": "https://вкуснофф.рф/img/recepty/2034/big.webp",
+          "price": "350",
+          "count": "1"
+        },
+        {
+          "id": "be74",
+          "name": "Биштекс",
+          "img": "https://вкуснофф.рф/img/recepty/5151/big.webp",
+          "price": "260",
+          "count": "1"
+        }
+      ]
+    }
+  ]
+}
